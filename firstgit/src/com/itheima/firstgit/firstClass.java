@@ -12,4 +12,8 @@ public class firstClass {
         System.out.println("helloworld");
         System.out.println("helloworld");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
