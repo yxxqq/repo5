@@ -17,6 +17,7 @@ public class firstClass {
         i+=10;
         System.out.println("iamfine");
         System.out.println("ok");
+        System.out.println("你好");
 
     }
 }
