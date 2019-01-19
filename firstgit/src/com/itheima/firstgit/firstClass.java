@@ -16,5 +16,6 @@ public class firstClass {
         int i=0;
         i+=10;
         System.out.println("iamfine");
+        System.out.println("ok");
     }
 }
